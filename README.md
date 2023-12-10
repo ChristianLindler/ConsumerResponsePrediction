@@ -233,8 +233,8 @@ we calcualated from our random sampling of 15
 complaints came out to be 0.8 between the model's
 ranking and the real company response. This is indicates
 strong likeness between the model's predictions, the ranking
-using given company responses, and human ranking. We acknowl-
-edge, however, that there are still improvements to be made
+using given company responses, and human ranking. We acknowledge,
+however, that there are still improvements to be made
 to the program’s ranking.
 ### Further Work
 There are a few potential avenues to further our
