@@ -1,6 +1,6 @@
 # CFPB Consumer Complaints Priority Ranking
 
-Christian - Spencer - Tamas - Nithil -  - Gilbert - Smrithi - Ahaan - Madeline - Adhish
+Christian - Spencer - Tamas - Nithil - Gilbert - Smrithi - Ahaan - Madeline - Adhish
 
 ## Abstract
 This paper introduces a sophisticated tool for
