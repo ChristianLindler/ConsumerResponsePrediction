@@ -4,29 +4,18 @@ Christian - Spencer - Tamas - Nithil - Gilbert - Smrithi - Ahaan - Madeline - Ad
 
 ## Abstract
 This paper introduces a sophisticated tool for
-prioritizing consumer complaints in the Con-
-sumer Financial Protection Bureau (CFPB)
-database, utilizing Facebook AI’s large lan-
-guage model, RoBERTa. We fine-tuned
-RoBERTa on a manually annotated subset of
-complaints to identify those with legal signif-
-icance, and then fine-tuned two separate in-
-stances of the model to predict company pub-
-lic and consumer responses. An ensemble ap-
-proach combined allowed us to create three
-models that specialized in one natural language
-task. These insights, combined with complaint
-timings, resulted in an algorithm that prioritizes
-complaints based on legal relevance, predicted
-company public/consumer response, and age.
-This method significantly allows complaints to
-be handled in an order cognizant to how the
-complaint is likely to be handled. Leverag-
-ing NLP could optimize financial institution
-response quality and resource allocation. The
-study demonstrates the efficacy of large lan-
-guage models in refining customer service op-
-erations in the financial sector.
+prioritizing consumer complaints in the Consumer Financial Protection Bureau (CFPB)
+database, utilizing Facebook AI’s large language model, RoBERTa. We fine-tuned
+RoBERTa on a manually annotated subset of complaints to identify those with legal 
+significance, and then fine-tuned two separate instances of the model to predict company 
+public and consumer responses. An ensemble approach combined allowed us to create three
+models that specialized in one natural language task. These insights, combined with complaint
+timings, resulted in an algorithm that prioritizes complaints based on legal relevance, 
+predicted company public/consumer response, and age. This method allows complaints to
+be ordered according to how complaint is likely to be handled. Leveraging NLP could 
+optimize financial institution response quality and resource allocation. The study 
+demonstrates the efficacy of large language models in refining customer service operations 
+in the financial sector.
 
 ## Introduction
 The Consumer Financial Protection Bureau is a
